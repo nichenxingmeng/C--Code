@@ -1,7 +1,3 @@
-/*
-#include<iomanip>
-cout << setiosflags(ios::fixed) << setprecision(2) << 123.4567 << endl;
-*/
 #include<iostream>
 #include<algorithm>
 using namespace std;
